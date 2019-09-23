@@ -3,3 +3,5 @@ Selasa : SIM (Sistem Informasi Manajemen)
 
 Kamis : GNS 3
 Jumat : Triger DB
+Sabtu : lely Tugas kelompok UI
+minggu : lely Tugas kelompok basis data lanjut
