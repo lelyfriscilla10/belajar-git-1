@@ -1,2 +1,4 @@
 Senin : Bootstrap,GIT
-Selasa : SIM
+Selasa : SIM (Sistem Informasi Manajemen)
+Rabu : Kosong
+Kamis : GNS 3
